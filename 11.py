@@ -14,4 +14,4 @@ if num > 0:
             i = i + 2
     print(f'A soma dos algorismos é {tot}')
 else:
-    print("Número inválido")
+    print("Número inválido.")
